@@ -1,0 +1,6 @@
+PyQt6 
+sounddevice 
+numpy 
+openai-whisper
+Pillow
+openai
